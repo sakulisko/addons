@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Lukas fork of official addon repo
+url: 'https://github.com/sakulisko/addons'
+maintainer: Sakulisko <cojetidotoho@gmail.com>
